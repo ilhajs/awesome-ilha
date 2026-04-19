@@ -99,6 +99,8 @@
 
 ### Apps and Websites
 
+- [thojensen's Portfolio](https://thojensen.com) - Portfolio website, built with Ilha and an Axum backend.
+
 > Built an app or website with Ilha? [Submit it!](https://github.com/ilhajs/awesome-ilha/pulls)
 
 ---
