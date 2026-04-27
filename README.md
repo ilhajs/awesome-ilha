@@ -36,7 +36,7 @@
 
 ### Official Resources
 
-- [Documentation](https://ilha.build/docs) - Deep dive into Ilha's internals.
+- [Documentation](https://ilha.build/guide/getting-started/introduction.html) - Deep dive into Ilha's internals.
 - [GitHub Repository](https://github.com/ilhajs/ilha) - Source code and releases.
 - [Release Notes](https://github.com/ilhajs/ilha/releases) - Changelog and version history.
 - [NPM Package](https://www.npmjs.com/package/ilha) - Install via npm, pnpm, or yarn.
