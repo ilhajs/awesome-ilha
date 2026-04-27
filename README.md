@@ -52,6 +52,7 @@
 ### Blog Posts and Articles
 
 - [I Built a UI Library in ~1,500 Lines of Code. Here's Why.](https://dev.to/ryuzy/i-built-a-ui-library-in-1500-lines-of-code-heres-why-25dj) - Library author's introduction article on Ilha.
+- [Ilha for Svelte Developers](https://dev.to/rgolawski/ilha-for-svelte-developers-4016) - Compares familiar Svelte concepts to their Ilha equivalents.
 
 ### Videos
 
