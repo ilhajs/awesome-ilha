@@ -36,7 +36,7 @@
 
 ### Official Resources
 
-- [Documentation](https://ilha.build/docs) - Deep dive into Ilha's internals.
+- [Documentation](https://ilha.build/guide/getting-started/introduction.html) - Deep dive into Ilha's internals.
 - [GitHub Repository](https://github.com/ilhajs/ilha) - Source code and releases.
 - [Release Notes](https://github.com/ilhajs/ilha/releases) - Changelog and version history.
 - [NPM Package](https://www.npmjs.com/package/ilha) - Install via npm, pnpm, or yarn.
@@ -52,6 +52,7 @@
 ### Blog Posts and Articles
 
 - [I Built a UI Library in ~1,500 Lines of Code. Here's Why.](https://dev.to/ryuzy/i-built-a-ui-library-in-1500-lines-of-code-heres-why-25dj) - Library author's introduction article on Ilha.
+- [Ilha for Svelte Developers](https://dev.to/rgolawski/ilha-for-svelte-developers-4016) - Compares familiar Svelte concepts to their Ilha equivalents.
 
 ### Videos
 
